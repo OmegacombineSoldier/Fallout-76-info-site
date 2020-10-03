@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+```<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Fall Out 76 Info Page</title>
+  </head>
+  <body>
+    <table border="1" width="1000px" align="center">
+      <tr>
+        <td colspan="5">Informtion on Fallout 76</td>
+      </tr>
+      <tr>
+        <td>https://store.steampowered.com/app/1151340/Fallout_76/</td>
+        <td>https://fallout.bethesda.net/buy-now</td>
+      </tr>
+      <tr>
+        <td colspan="5">It is set in an alternate history, and takes place in 2102, twenty-five years after a nuclear war that devastated the Earth. The player character is a resident of Vault 76, a fallout shelter that was built in West Virginia to house America's best and brightest minds.</td>
+      </tr>
+        
+      </tr>
+      
+        <td colspan="2">This is my image page! <br />
+        <img src="images/Fallout-76 helmet.jpg" width="100%"></td>
+      </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/OmegacombineSoldier/HTMLproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+  </body>
+</html
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OmegacombineSoldier/HTMLproject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
